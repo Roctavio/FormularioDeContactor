@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">12dp</dimen>
+    <dimen name="activity_vertical_margin">12dp</dimen>
+    <dimen name="izquierda">5dp</dimen>
+    <dimen name="derecha">5dp</dimen>
+    <dimen name="size_caracteres">15sp</dimen>
+    <dimen name="calendario_ancho">250sp</dimen>
+    <dimen name="calendario_alto">120sp</dimen>
+    <dimen name="titulo_confirmacion">30sp</dimen>
+    <dimen name="espacio_grande">20sp</dimen>
+    <dimen name="texto_confirmacion">15sp</dimen>
+    <dimen name="espacio_pequeno">10sp</dimen>
+    <dimen name="espacio_grande2">40sp</dimen>
+    <dimen name="boton_top">5sp</dimen>
+</resources>

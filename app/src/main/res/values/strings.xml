@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FormularioDeContactor</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="telefono">Telefono</string>
+    <string name="mail">Email</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmacion">Confirmar Datos</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="telefono1">Tel.</string>
+    <string name="email">Email:</string>
+    <string name="editar_datos">Editar Datos</string>
+    <string name="dia">dia</string>
+    <string name="mes">mes</string>
+    <string name="ano">ano</string>
+
+</resources>
